@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556424555559",
+    "project_id": "brigadepager-hswo",
+    "storage_bucket": "brigadepager-hswo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556424555559:android:fefbac7929b640c2e1b202",
+        "android_client_info": {
+          "package_name": "org.fhwos.brigadepager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqQ7IdYW8OKkSl7SST_pKiZMqXnrAbRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
